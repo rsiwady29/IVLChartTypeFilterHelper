@@ -1,0 +1,6 @@
+.AddOption(groupBuilder => groupBuilder.AddCode("biological").AddName("Biological").Build())
+.AddOption(groupBuilder => groupBuilder.AddCode("interfacingpolymer").AddName("Interfacing Polymer").Build())
+.AddOption(groupBuilder => groupBuilder.AddCode("mechanicalfixation").AddName("Mechanical Fixation").Build())
+.AddOption(groupBuilder => groupBuilder.AddCode("mechanicallocking").AddName("Mechanical Locking").Build())
+.AddOption(groupBuilder => groupBuilder.AddCode("nonporous").AddName("Non Porous").Build())
+.AddOption(groupBuilder => groupBuilder.AddCode("pressfit").AddName("Press Fit").Build())
